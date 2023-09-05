@@ -1,0 +1,7 @@
+1) website hosted in s3
+2) daily user visit 1000
+3) website content is like texts,images and some links about package , like local isp website.
+4) content like pricing and packages saved in dynamo db accessing by frontend through lambda.
+5) through route53 domain is redirected/hosted.
+ 
+Is it possible to achive through free tier and for how long it could be in free tier. 
