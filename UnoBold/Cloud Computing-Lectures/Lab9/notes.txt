@@ -1,0 +1,30 @@
+{
+ "courseCode": "CS510",
+ "courseName": "Cloud Computing",
+ "teacherName": "Unubold Tumenbayar",
+ "month": "11",
+ "year": "2022",
+ "students": [
+ "Student 1",
+ "Student 2"
+ ]
+}
+
+teacherName=Unubold Tumenbayar&month=11&year=2022
+
+courseCode=CS510&teacherName=Unubold Tumenbayar
+
+{
+  "courseName": "Cloud Computing with AWS"
+}
+
+App client id: 56p3dak6ln1v9fejbtl66a2mf1
+
+lab9.auth.us-east-1.amazoncognito.com
+
+https://lab9.auth.us-east-1.amazoncognito.com/login?client_id=56p3dak6ln1v9fejbtl66a2mf1&response_type=code&scope=email+openid&redirect_uri=https://qgrtuqz7y3pnq2j3r7bdqbltty0nsyhr.lambda-url.us-east-1.on.aws/
+
+
+aws cognito-idp initiate-auth --auth-flow USER_PASSWORD_AUTH --client-id 56p3dak6ln1v9fejbtl66a2mf1 --auth-parameters USERNAME=sdbappi,PASSWORD=123456 --region us-east-1
+ID Token:
+eyJraWQiOiJZMzRtWHR3XC9FcGEwTXlKV01rbU1zdnNWWlphTHNoWDBXcDFIMUlRbnlsMD0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0MjNjMDJkOS00Y2QyLTQyNTItYTY2ZS0wMDJkYTY1N2NkMGYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfSVpuOHJsbHZzIiwiY29nbml0bzp1c2VybmFtZSI6InNkYmFwcGkiLCJvcmlnaW5fanRpIjoiNDIzN2M2YTUtNzkzOC00YzUyLThlMGUtOTJhNmMyMTVmNmE3IiwiYXVkIjoiNTZwM2RhazZsbjF2OWZlamJ0bDY2YTJtZjEiLCJldmVudF9pZCI6IjQxZjBiYzYzLTUwZTQtNDMzZi1hZjg4LTkyNjIyZjgxMjdlYyIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNjY4OTI1NjYwLCJuYW1lIjoiU3ViaHJhIERleSBCYXBwaSIsImV4cCI6MTY2ODkyOTI2MCwiaWF0IjoxNjY4OTI1NjYwLCJqdGkiOiIzODcyNmI3NS1kN2Q2LTRhMzgtYmQ5NC0yZjMxMWZhZmM0MDIiLCJlbWFpbCI6InN1YmhyYS5kZXlAbWl1LmVkdSJ9.FT2yXZRl_4xh83_P7OeeCVMg7alHRokci1Fze0m2pDsOW_lDhCZ1TmeYpWPHIpattUgUKdcsAuzpWEvJ-roSJu4pG5OwGSpQO56a-7M7fqim7omji2w5Od73Q0NKW7DXDSBAzz6TW3IdrRsOB32Jm_U-ifFmcAlQGcyYAz2vUln0p3sMD9ca2c_wkvsU_IhBRWQN8eguuErqxER4yEaPSmHJshbARSqTxHGvREmmz2V2_mo8mIfmuE7VlqH-7CzAldtpS_oc2GMAtH9cfjd8A4rqKi0BOcwwj7CGiY2KiGf58cc9rQAJq6rRTKzpvxTPB_OjSqLTk6iTKCKBtth_jw

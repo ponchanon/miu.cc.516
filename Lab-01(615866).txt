@@ -1,0 +1,26 @@
+Question 01:
+WHAT CLOUD COMPUTING IS?
+
+
+Delivering of different online services throughout the network and running the necessary services in one or more reliable online servers is the base of cloud computing. Day by day cloud computing is enriching the service delivery and making sure the accessibility of different tools and applications like database, storage, servers, networking, policies and so on.
+
+Cloud computing is enhancing the computing technology through resource sharing between multiple data center and making sure the services are performing as expected from different data centers.
+
+The concepts are providing the benefits of cost and manageability at the same time disaster recovery is in the top of the priority. Without managing any hardware, we can access almost all services from different zonal availability.
+
+As the hardware is fully scalable, it’s operable with low manpower and cost.
+
+
+
+
+
+
+
+
+Question 02:
+WHAT’S AWS? COMPARED TO ON-PREMISES SOLUTION, WHAT BENEFITS IT HAS?
+
+
+AWS (Amazon Web Services) is a very reliable cloud computing service provider like GCP and Azure. AWS is ensuring a great alternative of on-premises data center and random cloud hosting. AWS is offering a lot of services and platform independent technologies. AWS offered some effective computing technology services like IaaS, PaaS, SaaS, and others.
+
+Managing on-premises servers is the old technique of data centers management. Also, it has a lot more challenges to manage the hardware installation & replacement, capacity planning, 100% power uptime, service performance monitoring, network administrating, system management and lot more unseen difficulties. All the challenges are possible to overcome by using the cloud service like AWS. From a single portal, we can manage all the things like networking, software, hardware, monitoring services, performance tuning, and so on.
